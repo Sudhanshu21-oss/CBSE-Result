@@ -1,4 +1,4 @@
-# CBSE Result Page Revamp
+# CBSE Result Page
 
 ## Overview
 While using the CBSE website, I noticed that checking results is not very straightforward, especially for first-time users. There are multiple links and no clear direction on what to do next.
