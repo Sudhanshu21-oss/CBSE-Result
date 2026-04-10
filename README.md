@@ -54,4 +54,4 @@ GitHub Repository:
 https://github.com/Sudhanshu21-oss/CBSE-Result
 
 Live Demo:
-dynamic-sherbet-1a62f8.netlify.app 
+https://dynamic-sherbet-1a62f8.netlify.app 
